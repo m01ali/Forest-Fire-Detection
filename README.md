@@ -1,4 +1,4 @@
-# Forest-Fire-Detection (ongoing)
+# Forest-Fire-Detection 
 
 The Forest Fire Detection system is designed to identify and localize fire hotspots in images using a combination of a classifier and an object detection model. This system integrates data collection, model training, and deployment strategies to ensure effective wildfire management.
 
